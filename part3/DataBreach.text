@@ -1,0 +1,13 @@
+Marriott Hotels Data Breach
+
+In 2018, Marriott announced a security breach in its guest reservation system. 
+The motivation behind the breach was to gain personal and financial information of customers.
+The vulnerabilities mainly came from a previously acquired company called Starwood. 
+Starwood was infiltrated in 2014 via trojan program called RAT. RAT grants the criminals unauthorized administrative control over their victim's technology.
+The biggest tech flaws with Starwood were outdated versions of their Windows Server. This left their Remote Desk Protocol ports open to the internet.
+Starwood had also been previously attacked and its devices were left infected with malware.
+Aside from this, Marriott also kept all of it's information in one location, one database, making it easy to collect all at once.
+This activity went unnoticed and, upon Marriott's acquisition of Starwood, a detailed cybersecurity audit was not conducted which allowed the cybercriminals to remain undetected.
+The perpetrators were able to glean names, addresses, phone numbers, email addresses, passport numbers and credit card numbers of nearly 500 million customers around the world.
+Since 2018 Marriott has taken steps to update their cybersecurity measures. 
+Though esteemed organizations such as the UK's ICO seem to acknowledge the steps Marriott have taken, details on these steps and other prevention methods have not been made clear.
